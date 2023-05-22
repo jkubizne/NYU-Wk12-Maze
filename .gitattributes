@@ -116,4 +116,3 @@
 *.gz lfs
 *.rar lfs
 *.tar lfs
-NYU-Wk7-3D-Env_Data/data.unity3d filter=lfs diff=lfs merge=lfs -text
