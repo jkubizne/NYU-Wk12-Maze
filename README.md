@@ -10,14 +10,17 @@ There was some growing pains with making sure the input actions were correctly c
 Also in the interests of compatiblity and performance I used URP for the first time, so there was a small learning curve there as well, converting assets and tackling minor graphics issues. My big question is how to ensure functionality on across controllers.
 
 Link to Screenshots and Video Screen Capture:
+
 https://www.dropbox.com/sh/tbe9b1z7bsf7le1/AABh4zGYrKKxXqqbYCTKPeEMa?dl=0
 
 Assets:
+
 https://github.com/Unity-Technologies/XR-Interaction-Toolkit-Examples
 https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-styled-modular-pack-82913
 https://assetstore.unity.com/packages/3d/environments/sci-fi/free-lowpoly-scifi-110070
 
 Resources:
+
 https://blog.immersive-insiders.com/xr-simulator/
 https://www.youtube.com/watch?v=5ZBkEYUyBWQ
 https://www.youtube.com/watch?v=d2gEEQeu1b4
