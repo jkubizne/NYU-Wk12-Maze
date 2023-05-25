@@ -3,10 +3,9 @@
  
  ![NYU_KUBIZNE_Wk12-Maze-Screen (0)](https://github.com/jkubizne/NYU-Wk12-Maze/assets/38052491/8562e05c-0483-4d99-8ef1-3695f83246c2)
 
-VIDEO PLAYTHROUGH:
-https://www.dropbox.com/s/uwe4perphjz7zuz/NYU_KUBIZNE_Wk12-Maze_1.mp4?dl=0
-SCREENSHOTS:
-https://www.dropbox.com/sh/tbe9b1z7bsf7le1/AABh4zGYrKKxXqqbYCTKPeEMa?dl=0
+[WATCH VIDEO PLAYTHROUGH](https://www.dropbox.com/s/uwe4perphjz7zuz/NYU_KUBIZNE_Wk12-Maze_1.mp4?dl=0)
+
+[SCREENSHOTS](https://www.dropbox.com/sh/tbe9b1z7bsf7le1/AABh4zGYrKKxXqqbYCTKPeEMa?dl=0)
 
 
 The Maze: This is a basic "find and fetch" game implementing XR Grab Interactables that allow the player to progress as well as a Teleport system to ease travesing the level in VR. You start outside of a building/complex and world space UI informs you must find a battery to place in the generator. Once the battery is placed in the correct slot, you are able to find your way out with some visual clues and informative UI pop-ups.
